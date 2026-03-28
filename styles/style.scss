@@ -1,4 +1,5 @@
-@use "base";
-@use "header";
-@use "main";
-@use "sidebar";
+@use "base" as *;
+@use "header" as *;
+@use "main" as *;
+@use "sidebar" as *;
+@use "player" as *;
